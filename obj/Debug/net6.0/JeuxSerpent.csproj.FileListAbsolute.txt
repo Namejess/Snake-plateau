@@ -1,0 +1,15 @@
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\bin\Debug\net6.0\JeuxSerpent.exe
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\bin\Debug\net6.0\JeuxSerpent.deps.json
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\bin\Debug\net6.0\JeuxSerpent.runtimeconfig.json
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\bin\Debug\net6.0\JeuxSerpent.dll
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\bin\Debug\net6.0\JeuxSerpent.pdb
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\JeuxSerpent.csproj.AssemblyReference.cache
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\JeuxSerpent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\JeuxSerpent.AssemblyInfoInputs.cache
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\JeuxSerpent.AssemblyInfo.cs
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\JeuxSerpent.csproj.CoreCompileInputs.cache
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\JeuxSerpent.dll
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\refint\JeuxSerpent.dll
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\JeuxSerpent.pdb
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\JeuxSerpent.genruntimeconfig.cache
+C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\ref\JeuxSerpent.dll
