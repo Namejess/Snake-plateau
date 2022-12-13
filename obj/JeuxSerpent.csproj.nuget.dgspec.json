@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stagiaire\\source\\repos\\JeuxSerpent\\JeuxSerpent\\JeuxSerpent.csproj": {}
+    "C:\\CDA CCI\\Module C#\\jeux-serpent-csharp\\JeuxSerpent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stagiaire\\source\\repos\\JeuxSerpent\\JeuxSerpent\\JeuxSerpent.csproj": {
+    "C:\\CDA CCI\\Module C#\\jeux-serpent-csharp\\JeuxSerpent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stagiaire\\source\\repos\\JeuxSerpent\\JeuxSerpent\\JeuxSerpent.csproj",
+        "projectUniqueName": "C:\\CDA CCI\\Module C#\\jeux-serpent-csharp\\JeuxSerpent.csproj",
         "projectName": "JeuxSerpent",
-        "projectPath": "C:\\Users\\stagiaire\\source\\repos\\JeuxSerpent\\JeuxSerpent\\JeuxSerpent.csproj",
-        "packagesPath": "C:\\Users\\stagiaire\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stagiaire\\source\\repos\\JeuxSerpent\\JeuxSerpent\\obj\\",
+        "projectPath": "C:\\CDA CCI\\Module C#\\jeux-serpent-csharp\\JeuxSerpent.csproj",
+        "packagesPath": "C:\\Users\\Namejess\\.nuget\\packages\\",
+        "outputPath": "C:\\CDA CCI\\Module C#\\jeux-serpent-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\stagiaire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Namejess\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net6.0": {
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

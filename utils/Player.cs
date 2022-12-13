@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JeuxSerpent.utils
+namespace SnakeGame.utils
 {
     public class Player
     {
@@ -18,10 +18,10 @@ namespace JeuxSerpent.utils
 
         public void drawDice()
         {
-            int number = Dice.draw();
-            position += number;
-            if (position > 50) position = 25;
-            Console.WriteLine(name + " a jeté son dès et à obtenu le score de " + number + " sa position est de " + position);
+            int dice = Dice.draw();
+            Console.WriteLine("Le joueur " + name + " a fait " + dice);
+            position += dice;
+            Console.WriteLine("Le joueur " + name + " est sur la case " + position);
         }
 
     }

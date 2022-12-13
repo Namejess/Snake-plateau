@@ -13,3 +13,18 @@ C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\refint\
 C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\JeuxSerpent.pdb
 C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\JeuxSerpent.genruntimeconfig.cache
 C:\Users\stagiaire\source\repos\JeuxSerpent\JeuxSerpent\obj\Debug\net6.0\ref\JeuxSerpent.dll
+C:\CDA CCI\Module C#\jeux-serpent-csharp\bin\Debug\net6.0\JeuxSerpent.exe
+C:\CDA CCI\Module C#\jeux-serpent-csharp\bin\Debug\net6.0\JeuxSerpent.deps.json
+C:\CDA CCI\Module C#\jeux-serpent-csharp\bin\Debug\net6.0\JeuxSerpent.runtimeconfig.json
+C:\CDA CCI\Module C#\jeux-serpent-csharp\bin\Debug\net6.0\JeuxSerpent.dll
+C:\CDA CCI\Module C#\jeux-serpent-csharp\bin\Debug\net6.0\JeuxSerpent.pdb
+C:\CDA CCI\Module C#\jeux-serpent-csharp\obj\Debug\net6.0\JeuxSerpent.csproj.AssemblyReference.cache
+C:\CDA CCI\Module C#\jeux-serpent-csharp\obj\Debug\net6.0\JeuxSerpent.GeneratedMSBuildEditorConfig.editorconfig
+C:\CDA CCI\Module C#\jeux-serpent-csharp\obj\Debug\net6.0\JeuxSerpent.AssemblyInfoInputs.cache
+C:\CDA CCI\Module C#\jeux-serpent-csharp\obj\Debug\net6.0\JeuxSerpent.AssemblyInfo.cs
+C:\CDA CCI\Module C#\jeux-serpent-csharp\obj\Debug\net6.0\JeuxSerpent.csproj.CoreCompileInputs.cache
+C:\CDA CCI\Module C#\jeux-serpent-csharp\obj\Debug\net6.0\JeuxSerpent.dll
+C:\CDA CCI\Module C#\jeux-serpent-csharp\obj\Debug\net6.0\refint\JeuxSerpent.dll
+C:\CDA CCI\Module C#\jeux-serpent-csharp\obj\Debug\net6.0\JeuxSerpent.pdb
+C:\CDA CCI\Module C#\jeux-serpent-csharp\obj\Debug\net6.0\JeuxSerpent.genruntimeconfig.cache
+C:\CDA CCI\Module C#\jeux-serpent-csharp\obj\Debug\net6.0\ref\JeuxSerpent.dll

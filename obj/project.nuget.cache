@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lax8RlxT9iaHABcPsqPY3dJUoyMa9A8xOpkOpsaPdW07EPtX3uhOVH9W8K1bq8W0StqNgiOayCNgYPo2QwVVew==",
+  "dgSpecHash": "idK6iaLroNCDpjHGcphi503x9LB1kFh6J3XuAOTw7dSi99Lvbn+eM2V73T3psawOpG5IzqPt6+3m3QHXNw9tZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stagiaire\\source\\repos\\JeuxSerpent\\JeuxSerpent\\JeuxSerpent.csproj",
+  "projectFilePath": "C:\\CDA CCI\\Module C#\\jeux-serpent-csharp\\JeuxSerpent.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
